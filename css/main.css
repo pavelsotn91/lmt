@@ -28,3 +28,7 @@
     background: #ffed85;
     border-top: solid 1px #eee;
 }
+
+.tour {
+	border: 2px solid yellow;
+}
